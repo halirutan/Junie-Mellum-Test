@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "pycharm-mcp": {
+      "type": "streamable-http",
+      "url": "http://127.0.0.1:64462/stream",
+      "headers": {
+        "IJ_MCP_SERVER_PROJECT_PATH": "/home/patrick/PycharmProjects/OpenCode-PyCharm-Mellum-Test"
+      }
+    }
+  }
+}

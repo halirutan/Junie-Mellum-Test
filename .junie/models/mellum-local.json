@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://localhost:11434/v1/chat/completions",
+  "id": "hf.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF:Q4_K_M",
+  "apiType": "OpenAICompletion"
+}
